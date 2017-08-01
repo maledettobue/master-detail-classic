@@ -2,7 +2,7 @@
 //  DetailViewController.swift
 //  master-detail-classic
 //
-//  Created by Mauro on 31/07/2017.
+//  Created by maledettobue on 31/07/2017.
 //  Copyright © 2017 n/a. All rights reserved.
 //
 

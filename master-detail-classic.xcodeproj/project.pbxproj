@@ -268,7 +268,7 @@
 				DEVELOPMENT_TEAM = NKXYL2AQ86;
 				INFOPLIST_FILE = "master-detail-classic/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.anduvina.minimalRequest.master-detail-classic";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.maledettobue.master-detail-classic";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -281,7 +281,7 @@
 				DEVELOPMENT_TEAM = NKXYL2AQ86;
 				INFOPLIST_FILE = "master-detail-classic/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.anduvina.minimalRequest.master-detail-classic";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.maledettobue.master-detail-classic";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -306,6 +306,7 @@
 				34587C5E1F2F2F850051C713 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
